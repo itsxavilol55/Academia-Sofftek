@@ -1,5 +1,1 @@
-
-esta es la rama QA
-
-esta es la rama develop
-
+ejercicio de practica de integracion de javier eduardo
